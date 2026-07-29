@@ -1,3 +1,3 @@
 # NathanDots
 
-Dotfiles pessoais para Arch Linux e Hyprland.
+Minha config pessoal de hyperland.
