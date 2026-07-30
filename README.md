@@ -2,4 +2,4 @@
 
 Minha configuração atual do Hyprland com Caelestia.
 
-Os arquivos ativos ficam em [`hypr/.config/hypr`](hypr/.config/hypr).
+Os arquivos estao compactados no [`hypr/.config/hypr`](hypr/.config/hypr).
