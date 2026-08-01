@@ -1,4 +1,4 @@
-# NathanDots
+# Nadocs
 
 Minha configuração atual do Hyprland com Caelestia.
 
